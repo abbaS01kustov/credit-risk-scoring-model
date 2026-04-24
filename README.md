@@ -157,9 +157,9 @@ Example:
 
 | Model         | AUC       |
 | ------------- | --------- |
-| Decision Tree | ~0.78     |
-| Random Forest | ~0.82     |
-| XGBoost       | **~0.83** |
+| Decision Tree | ~0.79     |
+| Random Forest | ~0.84     |
+| XGBoost       | **~0.85** |
 
 
 ### Step 6: Final Model Training
